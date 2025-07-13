@@ -12,9 +12,6 @@ A Retrieval-Augmented Generation (RAG) based question-answering system for loan 
 - Detailed source information
 - Dataset statistics
 
-## Demo
-
-![Loan Prediction Q&A Demo](https://via.placeholder.com/800x450.png?text=Loan+Prediction+Q%26A+Demo)
 
 ## Setup
 
