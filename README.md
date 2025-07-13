@@ -1,6 +1,6 @@
 # Loan Prediction Q&A System
 
-[![Python Application](https://github.com/yourusername/loan-prediction-qa/actions/workflows/python-app.yml/badge.svg)](https://github.com/yourusername/loan-prediction-qa/actions/workflows/python-app.yml)
+[![Python Application](https://github.com/khushi019/q-a-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/khushi019/q-a-bot/actions/workflows/python-app.yml)
 
 A Retrieval-Augmented Generation (RAG) based question-answering system for loan prediction data.
 
@@ -20,8 +20,8 @@ A Retrieval-Augmented Generation (RAG) based question-answering system for loan 
 
 1. Clone this repository
    ```
-   git clone https://github.com/yourusername/loan-prediction-qa.git
-   cd loan-prediction-qa
+   git clone https://github.com/khushi019/q-a-bot.git
+   cd q-a-bot
    ```
 
 2. Install dependencies:
